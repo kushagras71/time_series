@@ -1,2 +1,2 @@
 # time_series
-Time Series Models using DNN, RNN, LSTM and GRU
+Time Series Models using RNN, LSTM and GRU
